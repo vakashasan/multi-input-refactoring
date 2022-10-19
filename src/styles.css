@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.inputfield {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  border-color: rgb(53, 53, 53);
+  font-size: 18px;
+}
+.inputfield:focus {
+  outline: none !important;
+  border-color: rgb(53, 141, 255);
+  font-size: 18.1px;
+}
